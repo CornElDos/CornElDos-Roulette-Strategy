@@ -11,4 +11,4 @@ So with 9 numbers you cover 24% of all numbers, but since we omit the 2nd dozens
 
 It's fairly easy to manage the bets, but not the simplest. On a loss you go to neigbour bets, add 1 unit if it is 3rd loss. Then add 1 unit to number 29 and 32. Then add +5 units on 2nd dozen. So betsizes I use is $1 on singles and $5 on 2nd dozen. Then I just follow fibonacci. 
 
-Call it Corn El Dos Strategy or the Swedish Strategy.
+Call it Corn El Dos Strategy or the Swedish Strategy or The Swede.
