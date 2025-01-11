@@ -1,4 +1,4 @@
-# CornElDos Roulette Strategy
+# Corn El Dos Roulette Strategy
 A way to eliminate 2nd Dozen and use less stake and still win. Buy in is $1000. Target $100. Try to use European wheel. Although target is 1oo dollars, you can go on. You will hit a longer loosing streak eventually, but with Fib you will mostly recover in one shot, and keep betting after a loosing streak. The odds are in your favour to hit consecutive wins, based on how many numbers you cover on the play field. 
 Demo wheel: https://www.roulettesimulator.net/simulators/french-roulette/
 
