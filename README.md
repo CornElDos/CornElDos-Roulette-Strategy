@@ -21,7 +21,7 @@ Example: 4th level and $1 units would be $5 on singles, and $25 on 2nd dozen
 When in session profit, go back to base units.
 If still not in session profit (rare), keep same units as you had on your last win. Don't add. I haven't yet reached levels I don't come back to session profit in one go. I have reached 7th level 21 unit bets on singles, just once, from many over 200 spins.
 ## On a dozen
-Pretend it didn't happen. So lets say you have this sequence, loss, hit on 2nd dozen, loss - now you go the 3d progression on fibonacci meaning add one unit or double up for lazy people. 2nd dozen is treated as it haven't happen even if you get a $1 from the event.
+Pretend it didn't happen. So lets say you have this sequence, loss, hit on 2nd dozen, loss - now you go the 3d progression (the first 2 bets are at same units) on fibonacci meaning add one unit or double up for lazy people. 2nd dozen is treated as it haven't happen even if you get a $1 from the event.
 
 ## Ease of use
 It's fairly easy to manage the bets, but not the simplest. On a loss you go to neigbour bets, add 1 unit if it is 3rd loss. Then add 1 unit to number 29 and 32. Then add +5 units on 2nd dozen. So betsizes I use is $1 on singles and $5 on 2nd dozen. Then I just follow fibonacci. 
