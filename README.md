@@ -1,5 +1,5 @@
 # CornElDos-Roulette-Strategy
-A way to eliminate 2nd Dozen and use less stake and still win
+A way to eliminate 2nd Dozen and use less stake and still win. Buy in is $500. Target $100.
 Demo wheel: https://www.roulettesimulator.net/simulators/french-roulette/
 
 So place a 3 neigbour bet, cover 7 thru 0, then manually add same betsize on 29 and 32. This is only the one way to omit 2nd dozen at all. 
