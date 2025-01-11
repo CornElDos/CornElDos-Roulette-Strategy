@@ -3,7 +3,7 @@ A way to eliminate 2nd Dozen and use less stake and still win. Buy in is $1000. 
 Demo wheel: https://www.roulettesimulator.net/simulators/french-roulette/
 
 So place a 3 neigbour bet, cover 7 thru 0, then manually add same betsize on 29 and 32. <b>This is the only way to omit 2nd dozen at all.</b> 
-Look at my images how where to place the stakes. I use $1 unit on singles and $5 unit on middle dozen. 
+Look at my images how and where to place the units. I use $1 unit on singles and $5 unit on middle dozen. 
 
 You will actually earn $1 unit on 2nd dozen, but the main purpose is to omit 2nd dozen at all. 
 
