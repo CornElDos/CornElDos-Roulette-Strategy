@@ -2,12 +2,15 @@
 A way to eliminate 2nd Dozen and use less stake and still win. Buy in is $1000. Target $100. Try to use European wheel. Although target is 1oo dollars, you can go on. You will hit a longer loosing streak eventually, but with Fib you will mostly (on levels I haven't reached yet the middle dozen bet might obsfucate a total) recover in one shot, and keep betting after a loosing streak. The odds are in your favour to hit consecutive wins, based on how many numbers you cover on the play field. 
 Demo wheel: https://www.roulettesimulator.net/simulators/french-roulette/
 
+## How to play
 So place a 3 neigbour bet, cover 7 thru 0, then manually add same betsize on 29 and 32. <b>This is the only way to omit 2nd dozen at all.</b> 
 Look at my images how and where to place the units. I use $1 unit on singles and $5 unit on middle dozen. 
 
 You will actually earn $1 unit on 2nd dozen, but the main purpose is to omit 2nd dozen at all. 
 
+## Stats
 So with 9 numbers you cover 24% of all numbers, but since we omit the 2nd dozens we up it to 35%. You are laddering using fibonacci. So - 1 loss, 1 loss, 2 loss, 3 loss - already here at 4th level you are expecting a win based on percentage. 5th level or 6th level, rare and 7th to 10th level must be considered extremely rare. If your buy-in is larger then $1000 then you can go on for longer. Total size of your bet on your initial bet, will be $14.
+
 ## The reason
 So the ball has to travel on the wheel. Middle dozen numbers are omited, so the ball just have to travel to around the placement of the zero in order to win. For sure it does not always travel to zero or its neigbours, but that is why we fibo-ladder. On rare occasions we have to go to 5th or 6th levels.
 
