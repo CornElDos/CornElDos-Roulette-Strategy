@@ -9,10 +9,10 @@ You will actually earn $1 unit on 2nd dozen, but the main purpose is to omit 2nd
 
 So with 9 numbers you cover 24% of all numbers, but since we omit the 2nd dozens we up it to 35%. You are laddering using fibonacci. So - 1 loss, 1 loss, 2 loss, 3 loss - already here at 4th level you are expecting a win based on percentage. 5th level or 6th level, rare and 7th to 10th level must be considered extremely rare. Total size of your bet will be $14.
 
-##On a loss
+## On a loss
 Add a unit based on where you are on the fibonacci ladder
 Example: 4th level and $1 units. $5 on singles, and $25 on 2nd dozen
-##On a win
+## On a win
 When in session profit, go back to base units
 If still not in session profit (rare), keep same units as you had on a win. Don't add.
 
