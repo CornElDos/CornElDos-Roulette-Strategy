@@ -24,6 +24,6 @@ If still not in session profit (rare), keep same units as you had on your last w
 Pretend it didn't happen. So lets say you have this sequence, loss, hit on 2nd dozen, loss - now you go the 3d progression (the first 2 bets are at same units) on fibonacci meaning add one unit or double up for lazy people. 2nd dozen is treated as it haven't happen even if you get a $1 from the event.
 
 ## Ease of use
-It's fairly easy to manage the bets, but not the simplest. On a loss you go to neigbour bets, add 1 unit if it is 3rd loss. Then add 1 unit to number 29 and 32. Then add +5 units on 2nd dozen. So betsizes I use is $1 on singles and $5 on 2nd dozen. Then I just follow fibonacci. 
+It's fairly easy to manage the bets, but not the simplest. On a loss you go to neigbour bets, add 1 unit if it is 3rd loss. Then add +5 units on 2nd dozen. So betsizes I use is $1 on singles and $5 on 2nd dozen. Then I just follow fibonacci. 
 
 Call it <b>Corn El Dos Strategy</b> or <b>the Swedish Strategy</b> or <b>The Swede</b>.
